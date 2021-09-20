@@ -14,4 +14,6 @@ I worked as a Frontend Developer in [Alegra Digital](https://alegra.io){:target=
 
 After Alegra Digital, I worked for a year at Canada-based [CDEV Global](http://cdev.global/){:target="\_blank"}, which provides software support to customers in Latin America. (2020-2021)
 
-And now am working as a software developer at [Kariyer.net](https://www.kariyer.net/){:target="\_blank"} since January 2021.
+Then I worked at kariyer.net for 8 months.[kariyer.net](http://kariyer.net/){:target="\_blank"} is the market-leading job site with Turkey’s largest candidate database. (2021-2021)
+
+And now I am working as a software developer at [KBOX Global](https://www.kboxglobal.com/){:target="\_blank"} since Jun 2021.
